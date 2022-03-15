@@ -69,3 +69,6 @@ a:hover {
   opacity: 0.8;
   font-family: "Quicksand", sans-serif;
 }
+.footer {
+  text-align: center;
+}
